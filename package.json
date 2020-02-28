@@ -4,11 +4,9 @@
   "description": "Text summarization using Lexrank",
   "main": "lexrank.js",
   "dependencies": {
-    "natural": "^0.2.1",
-    "request": "^2.55.0",
-    "sentence-tokenizer": "^0.0.7",
-    "unfluff": "^0.10.0",
-    "wuzzy": "^0.1.2"
+    "natural": "^0.6.3",
+    "sentence-tokenizer": "^1.0.1",
+    "wuzzy": "^0.1.4"
   },
   "devDependencies": {},
   "scripts": {
